@@ -1,8 +1,4 @@
-# strapi-upload-aws-s3
-
-## Resources
-
-- [MIT License](LICENSE.md)
+# strapi-upload-yandex
 
 ## Links
 

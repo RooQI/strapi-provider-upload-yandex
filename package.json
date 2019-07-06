@@ -2,10 +2,10 @@
   
   "bundleDependencies": false,
   "dependencies": {
-    "aws-sdk": "^2.199.0"
+    "aws-sdk": "^2.457.0"
   },
   "deprecated": false,
-  "description": "AWS S3 provider for strapi upload",
+  "description": "Yandex provider for strapi upload",
   "directories": {
     "lib": "./lib"
   },
@@ -18,10 +18,10 @@
   "license": "MIT",
   "main": "./lib",
   
-  "name": "strapi-upload-yandex",
+  "name": "strapi-provider-upload-yandex",
   
   "strapi": {
     "isProvider": true
   },
-  "version": "3.0.0-alpha.14.4.0"
+  "version": "3.0.0-beta.9"
 }

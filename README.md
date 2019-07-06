@@ -1,4 +1,4 @@
-# strapi-upload-yandex
+# strapi-provider-upload-yandex
 
 ## Links
 
